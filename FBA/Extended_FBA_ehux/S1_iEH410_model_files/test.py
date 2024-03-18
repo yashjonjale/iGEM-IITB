@@ -1,14 +1,9 @@
 import cobra
 import scipy.io
-model = None
 
-mat_data = scipy.io.loadmat('./iEH410.mat')
-
-# Extract the model (assuming the variable name is 'model')
+mat_data = scipy.io.loadmat('your_matlab_model.mat')
 model = cobra.io.load_matlab_model(mat_data, variable_name='model') 
 
-# Print model summary
-print(model.summary())
 
 solution = model.optimise()
 
