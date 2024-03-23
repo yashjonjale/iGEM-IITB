@@ -14767,7 +14767,7 @@
       </listOfParameters>
     </kineticLaw>
   </reaction>
-  <reaction metaid="_578201" id="R_Ec_biomass_iJO1366_core_53p95M" name="E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate" reversible="false">
+  <reaction metaid="_578201" id="R_mass_iJO136Ec_bio6_core_53p95M" name="E. coli biomass objective function (iJO1366) - core - with 53.95 GAM estimate" reversible="false">
     <notes>
       <body xmlns="http://www.w3.org/1999/xhtml">
         <p>GENE_ASSOCIATION:</p>
