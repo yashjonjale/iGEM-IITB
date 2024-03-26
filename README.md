@@ -1,2 +1,2 @@
 # iGEM-IITB
-Official Repo of the iGEM team at IIT Bombay
+Official Repo of the iGEM team of IIT Bombay
